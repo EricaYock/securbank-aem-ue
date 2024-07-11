@@ -2,4 +2,4 @@ mountpoints:
   /: 
     url: https://author-p134711-e1334063.adobeaemcloud.com/bin/franklin.delivery/EricaYock/securbank-aem-ue/main
     type: markup
-    suffix: ".html?wcmmode=disabled"
+    suffix: ".html"
