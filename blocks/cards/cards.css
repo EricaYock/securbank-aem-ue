@@ -90,13 +90,13 @@
   .home .cards > ul > li:nth-child(1) {
     grid-area: 1 / 1 / 3 / 2; 
     max-width: 400px;
-    background-color: #748972;
+    background-color: #FFFFFF;
     color: #fff;
   }
 
   .home .cards > ul > li:nth-child(2) {
     grid-area: 1 / 2 / 2 / 3;
-    background-color: #748972;
+    background-color: #FFFFFF;
     display: flex;
     flex-direction: row-reverse;
     padding: 0;
