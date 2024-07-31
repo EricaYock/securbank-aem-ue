@@ -59,7 +59,7 @@
 
 .home .cards  > ul > li:nth-child(1) {
   width: 100%;
-  background-color: #200952;
+  background-color: #748972;
   color: #fff;
 }
 
@@ -90,13 +90,13 @@
   .home .cards > ul > li:nth-child(1) {
     grid-area: 1 / 1 / 3 / 2; 
     max-width: 400px;
-    background-color: #200952;
+    background-color: #748972;
     color: #fff;
   }
 
   .home .cards > ul > li:nth-child(2) {
     grid-area: 1 / 2 / 2 / 3;
-    background-color: #ECECFC;
+    background-color: #748972;
     display: flex;
     flex-direction: row-reverse;
     padding: 0;
@@ -104,7 +104,7 @@
       
 .home .cards > ul > li:nth-child(3) {
     grid-area: 2 / 2 / 3 / 3;
-    background-color: #ECECFC;
+    background-color: #748972;
     display: flex;
     flex-direction: row;
   }
