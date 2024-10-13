@@ -86,8 +86,8 @@ header {
 
 h1 {
   font-family: var(--heading-font-family);
-  font-weight: 600;
-  color:#007A2F
+  font-weight: 400;
+  color:#030303
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
