@@ -87,7 +87,7 @@ header {
 h1 {
   font-family: var(--heading-font-family);
   font-weight: 400;
-  color:#030303
+  color:#030303;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
@@ -96,7 +96,7 @@ h1 {
 } h2 {
   font-family: var(--heading-font-family);
   font-weight: 600;
-  color: white
+  color: white;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
@@ -105,7 +105,7 @@ h1 {
  h3 {
   font-family: var(--heading-font-family);
   font-weight: 600;
-  color:#050605
+  color:#050605;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
@@ -114,7 +114,7 @@ h1 {
 h4{
   font-family: var(--heading-font-family);
   font-weight: 600;
-  color:#58595A
+  color:#58595A;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
@@ -123,7 +123,7 @@ h4{
  h5{
   font-family: var(--heading-font-family);
   font-weight: 600;
-  color:#020503
+  color:#020503;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
@@ -132,6 +132,7 @@ h4{
  h6 {
   font-family: var(--heading-font-family);
   font-weight: 600;
+  color: #007A2F;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
