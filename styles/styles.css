@@ -18,11 +18,11 @@
 
  :root {
   /* colors */
-  --link-color: #007A2F;
+  --link-color: #0296A6;
   --link-hover-color: #3E6470;
   --background-color: #fff;
   --overlay-background-color: #eee;
-  --highlight-background-color: #00954C;
+  --highlight-background-color: #0296A6;
   --text-color: #2c2c2c;
 
   /* fonts */
