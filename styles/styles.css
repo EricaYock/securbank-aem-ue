@@ -18,11 +18,11 @@
 
  :root {
   /* colors */
-  --link-color: #0296A6;
+  --link-color: #04626A;
   --link-hover-color: #3E6470;
   --background-color: #fff;
   --overlay-background-color: #eee;
-  --highlight-background-color: #0296A6;
+  --highlight-background-color: #e2e2e4;
   --text-color: #2c2c2c;
 
   /* fonts */
@@ -114,7 +114,7 @@ h1 {
 h4{
   font-family: var(--heading-font-family);
   font-weight: 600;
-  color:white;
+  color:black;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
@@ -132,7 +132,7 @@ h4{
  h6 {
   font-family: var(--heading-font-family);
   font-weight: 600;
-  color: #007A2F;
+  color: #0f100f;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
