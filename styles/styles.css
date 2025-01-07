@@ -18,11 +18,11 @@
 
  :root {
   /* colors */
-  --link-color: #04626A;
+  --link-color: #026169;
   --link-hover-color: #3E6470;
   --background-color: #fff;
   --overlay-background-color: #eee;
-  --highlight-background-color: #e2e2e4;
+  --highlight-background-color: #ccc;
   --text-color: #2c2c2c;
 
   /* fonts */
@@ -84,55 +84,10 @@ header {
   height: var(--nav-height);
 }
 
-h1 {
-  font-family: var(--heading-font-family);
-  font-weight: 400;
-  color:white;
-  line-height: 1.25;
-  margin-top: 1em;
-  margin-bottom: .5em;
-  scroll-margin: calc(var(--nav-height) + 1em);
-}
-} h2 {
+h1, h2, h3,
+h4, h5, h6 {
   font-family: var(--heading-font-family);
   font-weight: 600;
-  color: #2c2c2c;
-  line-height: 1.25;
-  margin-top: 1em;
-  margin-bottom: .5em;
-  scroll-margin: calc(var(--nav-height) + 1em);
-}
- h3 {
-  font-family: var(--heading-font-family);
-  font-weight: 600;
-  color:#2c2c2c;
-  line-height: 1.25;
-  margin-top: 1em;
-  margin-bottom: .5em;
-  scroll-margin: calc(var(--nav-height) + 1em);
-}
-h4{
-  font-family: var(--heading-font-family);
-  font-weight: 600;
-  color:black;
-  line-height: 1.25;
-  margin-top: 1em;
-  margin-bottom: .5em;
-  scroll-margin: calc(var(--nav-height) + 1em);
-}
- h5{
-  font-family: var(--heading-font-family);
-  font-weight: 600;
-  color:#2c2c2c;
-  line-height: 1.25;
-  margin-top: 1em;
-  margin-bottom: .5em;
-  scroll-margin: calc(var(--nav-height) + 1em);
-}
- h6 {
-  font-family: var(--heading-font-family);
-  font-weight: 600;
-  color: #0f100f;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
