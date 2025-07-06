@@ -55,3 +55,11 @@
   font-style: normal;
   font-weight: 900;
 }
+
+@font-face {
+  font-family: "Frank Ruhl Libre", serif;
+  src: url("https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&display=swap" rel="stylesheet")
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
