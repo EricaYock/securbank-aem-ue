@@ -23,7 +23,7 @@
   --background-color: #fff;
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
-  --text-color: #2c2c2c;
+  --text-color: #012A41;
 
   /* fonts */
   --body-font-family: 'adobe-clean', helvetica, ubuntu, roboto, noto, sans-serif;
@@ -87,7 +87,7 @@ header {
 h1, h2, h3,
 h4, h5, h6 {
   font-family: var(--heading-font-family);
-  font-weight: 600;
+  font-weight: 400;
   line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
