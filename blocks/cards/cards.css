@@ -222,7 +222,7 @@
 
 .home .cards .cards-card-image img {
   object-fit: cover;
-  max-height: 400px;
+  max-height: 280px;
 }
 
 .home .cards > ul > li:nth-child(2) img {
@@ -232,8 +232,8 @@
 
 .home .cards > ul > li:nth-child(3) img {
   object-fit: cover;
-  width: 400px;
-  height: 300px;
+  width: 386px;
+  height: 280px;
 }
 
 .wide-cards .cards > ul {
