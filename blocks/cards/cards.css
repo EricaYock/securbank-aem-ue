@@ -232,8 +232,8 @@
 
 .home .cards > ul > li:nth-child(3) img {
   object-fit: cover;
-  width: 386px;
-  height: 280px;
+  width: 400px;
+  height: 300px;
 }
 
 .wide-cards .cards > ul {
