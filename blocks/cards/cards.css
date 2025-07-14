@@ -175,7 +175,7 @@
 
   .home .cards > ul > li:nth-child(2) {
     grid-area: 1 / 2 / 2 / 3;
-    background-color: #CBE7F0;
+    background-color: #d4e8ee;
     display: flex;
     flex-direction: row-reverse;
     padding: 0;
@@ -183,7 +183,7 @@
       
 .home .cards > ul > li:nth-child(3) {
     grid-area: 2 / 2 / 3 / 3;
-    background-color: #CBE7F0;
+    background-color: #d4e8ee;
     display: flex;
     flex-direction: row;
   }
