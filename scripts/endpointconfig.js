@@ -1,9 +1,9 @@
 function getAEMPublish() {
-  return 'https://publish-p137825-e1511252.adobeaemcloud.com';
+  return 'https://author-p178211-e1869897.adobeaemcloud.com';
 }
 
 function getAEMAuthor() {
-  return 'https://author-p137825-e1511252.adobeaemcloud.com';
+  return 'https://author-p178211-e1869897.adobeaemcloud.com';
 }
 
 export { getAEMPublish, getAEMAuthor };
